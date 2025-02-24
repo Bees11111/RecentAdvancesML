@@ -1,0 +1,9 @@
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+requests
+torch
+diffusers
+transformers
